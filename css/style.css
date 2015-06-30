@@ -5,10 +5,9 @@ background: url(../images/bg.jpg) no-repeat center center fixed;
 -o-background-size: cover;
 background-size: cover;
 }
-#container {
-    position:relative;
-     background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAHklEQVQIW2NkgID/QMwIo0EMGIBJgGUxAF6VKGYCADObBgZZPQHyAAAAAElFTkSuQmCC)repeat:repeat;
-z-index:999999;
+.row
+{
+background: none;
 }
 
   
