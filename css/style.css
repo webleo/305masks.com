@@ -1,5 +1,5 @@
 html { 
-background: url(../images/bg.jpg) no-repeat center center fixed; 
+background: url(../images/bg.jpg) no-repeat center center; 
 -webkit-background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;
@@ -7,7 +7,8 @@ background-size: cover;
 }
 .row
 {
-background: none;
+  margin-top: 500px;
+  background: black;
 }
 .masks
 {
