@@ -1,6 +1,6 @@
 .body
 {
-background-color: #000;
+background: black;
 }
 .container { 
 background: url(../images/bg.jpg) no-repeat center center fixed; 
