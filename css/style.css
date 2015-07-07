@@ -12,15 +12,12 @@ html,body{background-color: #000!important;}
 {
   margin-top: -20%;
   background: rgba(0, 0, 0, 0.6);
+  margin-left: 60px;
 }
 .masks
 {
 width: 70%;
 }
-tr
-{  
-font-size: 18px;
-  color: #fff;
-  }
-
+tr{font-size: 18px; color: #fff;}
+select{color:#000;}
   
