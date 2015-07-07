@@ -1,6 +1,6 @@
 .logo{color: #fff;}
 .container{
-  background: url(../images/bg.jpg) no-repeat center center;
+  /*background: url(../images/bg.jpg) no-repeat center center;*/
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
